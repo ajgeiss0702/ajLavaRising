@@ -1,0 +1,10 @@
+name: ajLavaRising
+version: "@VERSION@"
+main: us.ajg0702.lavarising.LavaPlugin
+author: ajgeiss0702
+api-version: 1.13
+commands:
+  RisingLava:
+    description: Commands for ajRisingLava
+    aliases: ["ajlavarising", "lavarising", "lava"]
+    permission: "ajlavarising.manage"
